@@ -1,5 +1,6 @@
-
 # GPG Public Key
+
+[raw](https://raw.github.com/jb55/identity/master/jb55.asc)
 
 You can use my public key to verify things I sign
 
