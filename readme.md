@@ -13,5 +13,9 @@ You can use my public key to verify things I sign
     curl https://me.com/thingisigned.txt | gpg --verify
 
     gpg --verify < fileisigned.txt
+    
+    pbpaste | gpg --verify
+    
+    xclip -o | gpg --verify
 
 
