@@ -1,6 +1,7 @@
-# GPG Public Key
+# PGP Public Key
 
 [raw](https://raw.github.com/jb55/identity/master/jb55.asc)
+[keybase.io proof](https://gist.github.com/jb55/9013070)
 
 You can use my public key to verify things I sign
 
